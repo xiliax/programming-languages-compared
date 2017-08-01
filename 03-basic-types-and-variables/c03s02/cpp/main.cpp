@@ -16,6 +16,7 @@ void varInit()
     cout << "variable initialization\n"
          << endl;
 
+    auto b(true);
     auto c(35);
     auto i(23432343);
     auto l(892320938920);
@@ -24,6 +25,8 @@ void varInit()
     auto ld(90992343e208);
     unsigned short us(65000);
     unsigned char uc(128);
+
+    cout << "0.\b - " << b << endl;
     cout << "1.\tc - "
          << c << endl;
     cout << "2.\tc - "
@@ -43,6 +46,7 @@ void varInit()
 void varDeclar()
 {
     printf("variable declaration\n");
+    bool b;
     char c;
     int i;
     long l;
@@ -51,6 +55,7 @@ void varDeclar()
     long double ld;
     unsigned short us;
     unsigned char uc;
+    cout << "0.\b - " << b << endl;
     cout << "1.\tc - "
          << c << endl;
     cout << "2.\tc - "

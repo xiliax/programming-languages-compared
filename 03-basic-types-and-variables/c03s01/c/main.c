@@ -21,6 +21,7 @@ void varInit()
     long double ld = 90992343e208;
     unsigned short us = 65000;
     unsigned char uc = 128;
+
     printf("1.\tc - %c\n", c);
     printf("2.\tc - %i\n", c);
     printf("3.\ti - %d\n", i);
@@ -41,6 +42,7 @@ void varDeclar()
     long double ld;
     unsigned short us;
     unsigned char uc;
+
     printf("1.\tc - %c\n", c);
     printf("2.\tc - %i\n", c);
     printf("3.\ti - %d\n", i);
