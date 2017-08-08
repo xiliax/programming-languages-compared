@@ -49,7 +49,6 @@ func varDeclar() {
 	fmt.Printf("1.\tr - %v\n", r)
 	fmt.Printf("2.\tb - %v\n", b)
 	fmt.Printf("3.\ti - %v\n", i)
-	fmt.Printf("3.\ti - %v\n", i)
 	fmt.Printf("4.\tl- 0x%X\n", l)
 	fmt.Printf("5.\tf - %v\n", f)
 	fmt.Printf("6.\td - %v\n", d)
