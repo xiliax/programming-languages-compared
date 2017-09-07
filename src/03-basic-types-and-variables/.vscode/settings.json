@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "limits.h": "c"
+    },
+    "python.formatting.provider": "yapf",
+    "python.linting.pylintEnabled": false
+}

@@ -54,3 +54,4 @@ Mkfile.old
 dkms.conf
 *.pdf
 *.mov
+.hidden

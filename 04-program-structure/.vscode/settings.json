@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "main.h": "c",
-        "iosfwd": "cpp",
-        "ostream": "cpp",
-        "string": "cpp"
-    }
-}

@@ -1,0 +1,12 @@
+VSCode Extensions
+
+* Auto-Open Markdown Preview (hnw)
+* C/C++ (Microsoft)
+* C/C++ snippets (Harsh)
+* Code Runner (Jun Han)
+* Diff Tool (jinshihou)
+* Go (lukehoban)
+* Language Support for Java(TM) by Red Hat (Red Hat)
+* Python (Don Jayamanne)
+* Scala (Lilya Tryapitsin)
+* TODO Parser (minhthai)
