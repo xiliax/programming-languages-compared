@@ -1,0 +1,7 @@
+define(`foo', `FOO-LA-LA')
+
+Hi name, how are you today?
+
+include(`b.txt')
+foo
+Bye!
