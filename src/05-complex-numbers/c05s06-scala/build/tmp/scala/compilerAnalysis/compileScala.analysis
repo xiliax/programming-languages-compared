@@ -1,0 +1,143 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/build/classes/scala/main
+compile options:
+2 items
+0 -> -deprecation
+1 -> -unchecked
+javac options:
+9 items
+0 -> -source
+1 -> 1.8
+2 -> -target
+3 -> 1.8
+4 -> -d
+5 -> /Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/build/classes/scala/main
+6 -> -g
+7 -> -proc:none
+8 -> -XDuseUnsharedTable=true
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+3 items
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> /Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/build/classes/scala/main/com/striversity/complex/Main$.class
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> /Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/build/classes/scala/main/com/striversity/complex/Main$ComplexImproved.class
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> /Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/build/classes/scala/main/com/striversity/complex/Main.class
+binary dependencies:
+4 items
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> /Users/another/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf/commons-math3-3.6.1.jar
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> /Users/another/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> /Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/build/classes/java/main/com/striversity/greet/Greet.class
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+3 items
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> com.striversity.complex.Main
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> com.striversity.complex.Main$
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> com.striversity.complex.Main$ComplexImproved
+used names:
+39 items
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> *
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> +
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> <init>
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> Any
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> AnyRef
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> Array
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> Complex
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> ComplexImproved
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> Double
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> Greet
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> Main
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> Object
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> Predef
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> String
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> Unit
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> a
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> abs
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> add
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> apache
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> b
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> c
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> com
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> commons
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> complex
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> d
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> g
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> getImaginary
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> greet
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> math3
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> multiply
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> org
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> println
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> rhs
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> say
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> scala
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> striversity
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> toString
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> z4
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> z5
+product stamps:
+3 items
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/build/classes/scala/main/com/striversity/complex/Main$.class -> lastModified(1507558502000)
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/build/classes/scala/main/com/striversity/complex/Main$ComplexImproved.class -> lastModified(1507558502000)
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/build/classes/scala/main/com/striversity/complex/Main.class -> lastModified(1507558502000)
+source stamps:
+1 items
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> hash(b75f0eb8bb3fd3e939c0dbbf7ad22f2901806a8f)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1489567893000)
+/Users/another/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf/commons-math3-3.6.1.jar -> lastModified(1507255035000)
+/Users/another/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar -> lastModified(1507552446000)
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/build/classes/java/main/com/striversity/greet/Greet.class -> lastModified(1507558100000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/another/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf/commons-math3-3.6.1.jar -> org.apache.commons.math3.complex.Complex
+/Users/another/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar -> scala.Double
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/build/classes/java/main/com/striversity/greet/Greet.class -> com.striversity.greet.Greet
+internal apis:
+1 items
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6yOg3wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDQjbYVdAAPQ29tcGxleEltcHJvdmVkdXEAfgAJAAAAGHNxAH4ACyFL5st0AAZub3RpZnlzcQB+AAuRL7eLdAAEd2FpdHNxAH4AC/wANX90AAEqc3EAfgAL3o7FQnQADSRhc0luc3RhbmNlT2ZzcQB+AAtxbpbbdAAGZXF1YWxzc3EAfgALclE9Q3QADGFzSW5zdGFuY2VPZnNxAH4AC/yn+410AAxzeW5jaHJvbml6ZWRzcQB+AAsdbQd3dAANJGlzSW5zdGFuY2VPZnNxAH4ACwD4Wed0AARtYWluc3EAfgALufbf5HQACW5vdGlmeUFsbHNxAH4AC/UVASB0AAxpc0luc3RhbmNlT2ZzcQB+AAvA9fb9dAAGPGluaXQ+c3EAfgALWlfUcHQAAj09c3EAfgALI7J+tXQABWNsb25lc3EAfgALNxDOE3QABE1haW5zcQB+AAvcEkT6dAAIdG9TdHJpbmdzcQB+AAusKY6adAABK3NxAH4AC+Gejsh0AAIhPXNxAH4ACzsXjGh0AAhnZXRDbGFzc3NxAH4AC0c/0ul0AAJuZXNxAH4AC2Xze8F0AAJlcXNxAH4AC87M+DZ0AAIjI3NxAH4ACzukHxR0AAhmaW5hbGl6ZXNxAH4AC5lR5g10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABxjb20uc3RyaXZlcnNpdHkuY29tcGxleC5NYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBhc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AZnNxAH4AYXVxAH4ARAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ASnEAfgBTdXEAfgBUAAAAAHNxAH4AVgBxAH4AIXVxAH4AWQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBldAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AgXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AG54cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFx0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHVbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGVzcQB+AHR0AAVBcnJheXEAfgB6dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHR0AAZTdHJpbmdzcQB+AHhzcQB+AHt1cQB+AH4AAAADc3EAfgCAdAAEamF2YXNxAH4AgHQABGxhbmdxAH4AhXNxAH4AYXVxAH4ARAAAAABzcQB+AGF1cQB+AJkAAAACc3EAfgB0dAAGT2JqZWN0cQB+AJ1zcQB+AHR0AANBbnlxAH4AenVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAD2NvbS5zdHJpdmVyc2l0eXNxAH4ArnQAF2NvbS5zdHJpdmVyc2l0eS5jb21wbGV4c3EAfgCudAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFfAX0oxHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AGovVXNlcnMvYW5vdGhlci9sY3AvcHJvZ3JhbW1pbmctbGFuZ3MtY29tcGFyZWQvc3JjLzA1LWNvbXBsZXgtbnVtYmVycy9jMDVzMDYtc2NhbGEvYnVpbGQvY2xhc3Nlcy9zY2FsYS9tYWludAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUt18OuLs/0+k5wNu/etIvKQGAao8=
+external apis:
+0 items
+source infos:
+1 items
+/Users/another/lcp/programming-langs-compared/src/05-complex-numbers/c05s06-scala/src/main/scala/com/striversity/complex/Main.scala -> 
+AAAAAAAAAAA=
+compilations:
+7 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXwF1Fyh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAai9Vc2Vycy9hbm90aGVyL2xjcC9wcm9ncmFtbWluZy1sYW5ncy1jb21wYXJlZC9zcmMvMDUtY29tcGxleC1udW1iZXJzL2MwNXMwNi1zY2FsYS9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXwF3Es51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAai9Vc2Vycy9hbm90aGVyL2xjcC9wcm9ncmFtbWluZy1sYW5ncy1jb21wYXJlZC9zcmMvMDUtY29tcGxleC1udW1iZXJzL2MwNXMwNi1zY2FsYS9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXwF3m3J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAai9Vc2Vycy9hbm90aGVyL2xjcC9wcm9ncmFtbWluZy1sYW5ncy1jb21wYXJlZC9zcmMvMDUtY29tcGxleC1udW1iZXJzL2MwNXMwNi1zY2FsYS9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXwF5P491cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAai9Vc2Vycy9hbm90aGVyL2xjcC9wcm9ncmFtbWluZy1sYW5ncy1jb21wYXJlZC9zcmMvMDUtY29tcGxleC1udW1iZXJzL2MwNXMwNi1zY2FsYS9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXwF536V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAai9Vc2Vycy9hbm90aGVyL2xjcC9wcm9ncmFtbWluZy1sYW5ncy1jb21wYXJlZC9zcmMvMDUtY29tcGxleC1udW1iZXJzL2MwNXMwNi1zY2FsYS9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXwF8pcd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAai9Vc2Vycy9hbm90aGVyL2xjcC9wcm9ncmFtbWluZy1sYW5ncy1jb21wYXJlZC9zcmMvMDUtY29tcGxleC1udW1iZXJzL2MwNXMwNi1zY2FsYS9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXwF9KMR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAai9Vc2Vycy9hbm90aGVyL2xjcC9wcm9ncmFtbWluZy1sYW5ncy1jb21wYXJlZC9zcmMvMDUtY29tcGxleC1udW1iZXJzL2MwNXMwNi1zY2FsYS9idWlsZC9jbGFzc2VzL3NjYWxhL21haW50AAEv

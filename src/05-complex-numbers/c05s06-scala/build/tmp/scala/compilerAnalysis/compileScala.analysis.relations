@@ -1,0 +1,15 @@
+products:
+   src/main/scala/com/striversity/complex/Main.scala -> build/classes/scala/main/com/striversity/complex/Main$.class
+   src/main/scala/com/striversity/complex/Main.scala -> build/classes/scala/main/com/striversity/complex/Main$ComplexImproved.class
+   src/main/scala/com/striversity/complex/Main.scala -> build/classes/scala/main/com/striversity/complex/Main.class
+binary dependencies:
+   src/main/scala/com/striversity/complex/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/com/striversity/complex/Main.scala -> /Users/another/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf/commons-math3-3.6.1.jar
+   src/main/scala/com/striversity/complex/Main.scala -> /Users/another/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+   src/main/scala/com/striversity/complex/Main.scala -> build/classes/java/main/com/striversity/greet/Greet.class
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/com/striversity/complex/Main.scala -> com.striversity.complex.Main
+   src/main/scala/com/striversity/complex/Main.scala -> com.striversity.complex.Main$
+   src/main/scala/com/striversity/complex/Main.scala -> com.striversity.complex.Main$ComplexImproved
