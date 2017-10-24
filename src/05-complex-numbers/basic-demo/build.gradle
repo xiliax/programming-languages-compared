@@ -1,0 +1,23 @@
+
+plugins {
+    id 'groovy'
+}
+
+description = 'My very awesome project'
+group = 'com.striversity.complex'
+version = '1.0-snapshot'
+
+task copy(type: Copy) {
+    from 'src'
+    into 'dest'
+}
+
+// task compile(type: GroovyCompile){
+//     path 'src'
+// }
+
+task hello{
+    doLast{
+        println 'Hello, world'
+    }
+}
